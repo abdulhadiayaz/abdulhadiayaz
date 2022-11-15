@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hello World! 😄
 
 <!--
 **abdulhadiayaz/abdulhadiayaz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,3 +14,10 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+<img src="https://raw.githubusercontent.com/sagar-viradiya/sagar-viradiya/master/resources/banner.png" alt="Hello world">
+
+#
+[![Hadi's GitHub stats](https://github-readme-stats.vercel.app/api?username=abdulhadiayaz&count_private=true&show_icons=true&theme=transparent)](https://github.com/abdulhadiayaz/github-readme-stats)
+
+#
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=abdulhadiayaz)](https://github.com/anuraghazra/github-readme-stats)
