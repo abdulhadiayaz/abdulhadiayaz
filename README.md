@@ -56,9 +56,9 @@
 <img src="https://img.shields.io/badge/-Vercel-000000?logo=vercel&logoColor=white" alt="" />
 </p>
 </p>
-<h4>
- ⚙️ Analytics
-</h4>
+
+## ⚙️ Analytics
+<p align="center">
 <p align="center">
 <a href="https://github.com/abdulhadiayaz">
    <img  width="80%"  src="https://github-readme-stats-eight-theta.vercel.app/api?username=abdulhadiayaz&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
