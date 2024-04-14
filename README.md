@@ -1,18 +1,3 @@
-
-<!--
-**abdulhadiayaz/abdulhadiayaz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
 <div align="center">
 
 ![](https://komarev.com/ghpvc/?username=abdulhadiayaz&color=red&label=Profile+Views)
@@ -23,5 +8,64 @@ Here are some ideas to get you started:
 <img src="https://raw.githubusercontent.com/abdulhadiayaz/abdulhadiayaz/main/resources/banner.png" alt="Hello world">
 <br><br>
 
-[![Hadi's GitHub stats](https://github-readme-stats.vercel.app/api?username=abdulhadiayaz&count_private=true&show_icons=true&theme=transparent&card_width=550)](https://github.com/abdulhadiayaz/github-readme-stats)
+
+<img src="https://raw.githubusercontent.com/abdulhadiayaz/abdulhadiayaz/main/resources/banner.png" alt="Hello world">
+<br><br>
+
+## 🛠 My Stack
+<h3 align="center">
+  Frontend
+</h3>
+<p align="center">
+    <img src="https://img.shields.io/badge/-HTML5-orange?logo=html5" alt="" /> 
+  <img src="https://img.shields.io/badge/-CSS3%20Modules-blue?logo=css3" alt="" /> 
+  <img src="https://img.shields.io/badge/-Sass-pink?logo=sass" alt="" />
+    <img src="https://img.shields.io/badge/-Bootstrap-white?logo=bootstrap" alt="" />
+   <img src="https://img.shields.io/badge/-Material%20UI-blue?logo=mui" alt="" />
+  <img src="https://img.shields.io/badge/-Tailwind%20CSS-white?logo=tailwindcss" alt="" />
+  <img src="https://img.shields.io/badge/-Ant%20Design-green?logo=antdesign" alt="" />
+<img src="https://img.shields.io/badge/-WordPress-21759B?logo=wordpress&logoColor=white" alt="" />
+  
+</p>
+<p align="center">
+  <img src="https://img.shields.io/badge/-JavaScript-05122A?&logo=javascript" alt="" />
+  <img src="https://img.shields.io/badge/-TypeScript-lightgray?logo=typescript" alt="" />
+  <img src="https://img.shields.io/badge/-React-gray?logo=react" alt="" />
+  <img src="https://img.shields.io/badge/-Next.js-black?logo=next.js" alt="" />
+  <img src="https://img.shields.io/badge/-Redux%20-%23593d88.svg?logo=redux&logoColor=white" alt="" />
+  <img src="https://img.shields.io/badge/-React%20Query-FF4154?logo=react%20query&logoColor=white" alt="" />
+ 
+</p>
+<h3 align="center">
+  Backend
+</h3>
+<p align="center">
+<img src="https://img.shields.io/badge/-Node.js-339933?logo=node.js&logoColor=white" alt="" />
+<img src="https://img.shields.io/badge/-Express.js-000000?logo=express&logoColor=white" alt="" />
+<img src="https://img.shields.io/badge/-Sequelize-52B0E7?logo=sequelize&logoColor=white" alt="" />
+<img src="https://img.shields.io/badge/-MongoDB-47A248?logo=mongodb&logoColor=white" alt="" />
+<img src="https://img.shields.io/badge/-Prisma-2D3748?logo=prisma&logoColor=white" alt="" />
+<img src="https://img.shields.io/badge/-MySQL-4479A1?logo=mysql&logoColor=white" alt="" />
+<img src="https://img.shields.io/badge/-NestJS-E0234E?logo=nestjs&logoColor=white" alt="" />
+</p>
+<h3 align="center">
+  Additional Skills
+</h3>
+<p align="center">
+  <img src="https://img.shields.io/badge/-Unit%20Testing-8A2BE2" alt="" />
+ <img src="https://img.shields.io/badge/-Jest-%23C21325?flat&logo=jest&logoColor=white" alt="" />
+  <img src="https://img.shields.io/badge/-GraphQL-pink?logo=graphql" alt="" />
+  <img src="https://img.shields.io/badge/-Docker-05122A?style=flat&logo=Docker" alt="" />
+<img src="https://img.shields.io/badge/-AWS-232F3E?logo=amazon-aws&logoColor=white" alt="" />
+<img src="https://img.shields.io/badge/-Vercel-000000?logo=vercel&logoColor=white" alt="" />
+</p>
+</p>
+## ⚙️ Analytics
+<p align="center">
+<a href="https://github.com/abdulhadiayaz">
+   <img  width="80%"  src="https://github-readme-stats-eight-theta.vercel.app/api?username=abdulhadiayaz&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
+  <img  src="https://github-readme-streak-stats.herokuapp.com/?user=abdulhadiayaz&theme=algolia" width="80%" >
+</a>
+</p>
+
 </div>
