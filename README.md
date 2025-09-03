@@ -7,7 +7,6 @@
 
 <img src="https://raw.githubusercontent.com/abdulhadiayaz/abdulhadiayaz/main/resources/banner.png" alt="Hello world">
 <br><br>
-<style>.avatar {display: none}</style>
 ## 🛠 My Stack
 <h3 align="center">
   Frontend
